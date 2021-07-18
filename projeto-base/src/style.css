@@ -1,0 +1,13 @@
+.imagem-carrosel{
+	object-fit: cover;
+	object-position: 0 80%; 
+	heigth:  400px;
+}
+
+.fonte-titulo{
+	font-family: 'Pacifico' cursive;
+}
+
+.cor-especial{
+	color: darkblue;
+}
